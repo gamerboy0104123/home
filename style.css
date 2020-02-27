@@ -1,0 +1,27 @@
+body{
+	background: #FFFFFF url(Gaming.jpg) repeat-x top center;
+}
+header {
+	text-align: center;
+}
+nav{
+	text-align: center;
+}
+h1 {
+	color: #fc0303;
+}
+article {
+	float: left;
+}
+aside {
+	float: right;
+}
+footer {
+	clear: both;
+	text-align: center;
+}
+table, td, th {
+	border: 1px solid black;
+	text-align: center;
+	padding: 10px;
+}
